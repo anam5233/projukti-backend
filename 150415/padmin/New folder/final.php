@@ -47,7 +47,7 @@
 				<table class="table table-bordered">
 					<tr>
 						<th colspan="6" class="text-center success">form one</th>
-						<th class="text-center info"><a href="">edit</a></th>
+						<th class="text-center info"><a href="regform.php" target="_blank">edit</a></th>
 						<!-- <a href="">edit</a> -->
 					</tr>
 					<tr>
@@ -120,7 +120,7 @@
 				<table class="table table-bordered">
 					<tr>
 						<th colspan="2" class="text-center success">form two</th>
-						<th class="text-center info"><a href="">edit</a></th>
+						<th class="text-center info"><a href="regform2.php" target="_blank">edit</a></th>
 					</tr>
 					<tr>
 						<th colspan="3" class="text-center">6. Brief description of current business operation if any: (Within Maximum 100 words in each section)</th>
@@ -170,7 +170,7 @@
 				<table class="table table-bordered">
 					<tr>
 						<th colspan="3" class="text-center success">form three</th>
-						<th class="text-center info"><a href="">edit</a></th>
+						<th class="text-center info"><a href="regform3.php" target="_blank">edit</a></th>
 					</tr>
 					<tr>
 						<th colspan="4" class="text-center">7. Market Strategy </th>
@@ -214,7 +214,7 @@
 				<table class="table table-bordered">
 					<tr>
 						<th colspan="2" class="text-center success">form four</th>
-						<th class="text-center info"><a href="">edit</a></th>
+						<th class="text-center info"><a href="regform4.php" target="_blank">edit</a></th>
 					</tr>
 					<tr>
 						<td colspan="3" class="text-center">9. Describe the potential of proposed Business to be financed by EEF: (Within Maximum 100 words in each section)</td>
@@ -258,7 +258,7 @@
 				<table class="table table-bordered">
 					<tr>
 						<th colspan="6" class="text-center success">form five</th>
-						<th class="text-center info"><a href="">edit</a></th>
+						<th class="text-center info"><a href="regform5.php" target="_blank">edit</a></th>
 					</tr>
 					<tr>
 						<td colspan="7" class="text-center">10. Describe if your Company have association with foreign company in the form of</td>
